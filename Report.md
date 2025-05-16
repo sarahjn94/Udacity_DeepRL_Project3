@@ -5,7 +5,8 @@
 ### Learning Algorithm
 
 For this Collaboration and Competition project, the implementation used a multi-agent deep deterministic policy gradient (MADDPG) learning algorithm.
-	- Actor-Critic architecture
+	
+ 	- Actor-Critic architecture
 		- Both had local and target network with soft updates on target network
 		- Input layer of size 24
 		- Actor output layer of size 2
